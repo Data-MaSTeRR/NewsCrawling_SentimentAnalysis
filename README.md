@@ -1,1 +1,11 @@
-# NewsCrawling_SentimentAnalysis
+# NewsCrawling_Keywords by WordCloud
+
+## 날짜를 입력하면 그날의 주요뉴스를 불러오고 키워드를 워드클라우드로 보여주는 프로그램
+
+
+
+
+
+## 단어를 입력하면 최근뉴스 순으로 키워드를 워드클라우드로 보여주는 프로그램
+
+
